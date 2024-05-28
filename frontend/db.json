@@ -1,0 +1,599 @@
+{
+  "categories": [
+    {
+      "name": "Phụ kiện",
+      "id": "5vertd1bzu6"
+    },
+    {
+      "name": "Áo quần",
+      "id": "14o6rxz93nh"
+    }
+  ],
+  "products": [
+    {
+      "image": "92efc832310e439d9126ca7c4a9877c9_1062b8c27461441cb0cc557dd0adf79b_large.jpeg",
+      "name": "Túi tote da đeo chéo màu đen",
+      "price": 340000,
+      "id": "4eucesmj1qb",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "img_0247_c3f7276d999747979da306cad7df0085_large.jpeg",
+      "name": "Túi Tote da simili đeo chéo in lửa đỏ",
+      "price": 400000,
+      "id": "i4mwl1wkbk",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "img_0248_ae92d225011f4d2185f2953192a438a7_large.jpeg",
+      "name": "Túi Tote da simili đeo chéo in lửa trắng",
+      "price": 400000,
+      "id": "mj2gesyrp2",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "972d08e2524b4e37a8648591c3e17051_a87844add0be40839b8645153acc6aab_large.jpeg",
+      "name": "Túi tote mini simili đen thời trang nam nữ",
+      "price": 280000,
+      "id": "otggi6448s8",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "nt5177_2a40ypjx-1-fccn-hinh_nghieng_trai_linh_dong-0_aa62135a08dc4c33833341ef9c85550d_large.jpeg",
+      "name": "(White Moment) Balo Da 2 Ngăn Big Logo",
+      "price": 490000,
+      "id": "5vef1zdam2u",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "c95a6a6aba924c6287e4a9ba29d8f3f3_6b44e496caaf424fbfaaddd522817041_large.jpeg",
+      "name": "Balo simili hoạ tiết độc đáo thời trang nam nữ",
+      "price": 550000,
+      "id": "x9hm3fy29nk",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "3eb08a8262464d719eedc654330a57c2_03155e9504c942a0becb4a244660ded3_large.jpeg",
+      "name": "Balo Simili kích thước nhỏ thời trang nữ",
+      "price": 390000,
+      "id": "emti032mfk5",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "nta401_2je9pvx3-1-1zhf-hinh_nghieng_34_phai-0_931a43838b044cff88f8e62e1424ec19_large.jpeg",
+      "name": "Dép da quai ngang đế cao su thời trang unisex",
+      "price": 550000,
+      "id": "xoi01237f2d",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "04fecc5474234643a2607a032c952832_fbb497732021409aad23c90746b3a664_large.jpeg",
+      "name": "Túi Da đeo chéo vai thời trang nam nữ",
+      "price": 340000,
+      "id": "6ssrz203p7x",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "img_8565_928ff37a44fd4f5fa71d4cdad89c37df_large.jpeg",
+      "name": "Balo da có nắp medium size màu đen",
+      "price": 390000,
+      "id": "781ahimrqo",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "hkh128_biwns6f3-1-emou-hinh_anh_chinh_sua-0_6631ba47bf4d48c7a4ca115a7a8b0dd3_large.jpeg",
+      "name": "Cặp simili có quai đeo kiểu Nhật",
+      "price": 430000,
+      "id": "lwq1ma1s1ar",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "nt5177_o0x6f4ic-1-v48v-hinh_mat_truoc-0_25a98e12b2f24bafa15158aa1094aefe_large.jpeg",
+      "name": "Balo simili nắp đậy nhiều ngăn",
+      "price": 430000,
+      "id": "ib42vluuax",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "7d7c42fc3dbd4f83baba2a183192ec15_706d39d53b4b43d287b6b56eb7c6c295_large.jpeg",
+      "name": "Double Leather Basic Balo Nâu Small Size",
+      "price": 380000,
+      "id": "cknt49h31fs",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "b75a6c6adf0a48548d53f0c2e66e00b0_4f92c3fb728c49138396cc8a41d5728c_large.jpeg",
+      "name": "Leather Basic Balo Nâu Small Size",
+      "price": 380000,
+      "id": "avqrqn8be95",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "img_6752_600de1673b2e40a2b4b0aa3b1f0524d7_large.jpeg",
+      "name": "Double Leather Basic Balo Small Size",
+      "price": 380000,
+      "id": "hy6c7ulgbi",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "img_6753_7cb6011bd47f487592e367ea7f73ccfe_large.jpeg",
+      "name": "Leather Basic Balo Small Size",
+      "price": 380000,
+      "id": "2xuok208iqb",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "img_7236_7027a7d7394a4f3796ccd56ed2a66b02_large.jpeg",
+      "name": "Leather Basic Balo Kem Small Size",
+      "price": 380000,
+      "id": "y915odzy67i",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "img_7233_31566a138c0f490d990467cf661b21e8_large.jpeg",
+      "name": "Double Leather Basic Balo Kem Small Size",
+      "price": 380000,
+      "id": "865k5af54wm",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "54affca1c04b4f73ac93447d7f1dbdfa_9c9f59048da9463ab9e949970dc45b80_large.jpeg",
+      "name": "Balo Simili Nap Basic Kem",
+      "price": 440000,
+      "id": "zocalkkb9v",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "6e90f6d4329a43058f96e4b667c739d0_566f1d703b6744898863c749460b0f04_large.jpeg",
+      "name": "Balo Simili Nap Basic",
+      "price": 440000,
+      "id": "3zgyvywgqhc",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "c39b1fb4b6754c47962405b8fee6fa0c_49eab7d9ab424059ac2ea87b564fd4e8_large.jpg",
+      "name": "Leather Basic Balo",
+      "price": 430000,
+      "id": "dej0o9wfau",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "2d866695-b448-4f5c-b52b-3401db3098dd_76b9baaa3f14443f82f5b9a69f641062_large.jpeg",
+      "name": "Leather Basic Balo Rêu",
+      "price": 430000,
+      "id": "sibwq2xorgr",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "af8c07970fee4fca9047aab2081fe886_549ebdea53644aab9411b84a989840df_large.jpeg",
+      "name": "Leather Basic Balo Kem",
+      "price": 430000,
+      "id": "qwpw1ct8fn",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "nt5177_k80zbanv-1-p99b-hinh_nghieng_trai-0_31cddc7b84af47d691e1d8982da1c9f0_large.jpeg",
+      "name": "Double Leather Basic Balo Kem",
+      "price": 480000,
+      "id": "a9o27a7dcjk",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "7cbf5801-3f66-492c-8d91-873beb45b013_5a2650170c724d6ba2071164754afa55_large.jpeg",
+      "name": "Double Leather Basic Balo",
+      "price": 480000,
+      "id": "h5l420f4r1s",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "2a1f6c2bc6be428d88c8a258586b873d_b12661707fbd43e69ab171c5a60c160f_large.jpg",
+      "name": "Balo Leather Quốc Dân Nâu",
+      "price": 340000,
+      "id": "8t58zq03msj",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "nt5177_kq37cpuw-1-athf-hinh_nghieng_trai-0_5108ce4b5dee4c0ea0c24065d1f15149_large.jpg",
+      "name": "Balo Leather Quốc Dân",
+      "price": 340000,
+      "id": "rjo825wd7oj",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "24a436de-b364-453b-a43d-fc9f390395e4_8ada90ca4b7b4e018d0f8f5e98541e76_large.jpeg",
+      "name": "Leather ToteBook",
+      "price": 350000,
+      "id": "o8w9001tdx",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "img_5822_d69bcabf6e5946eaa58567a9c2fd1270_large.jpeg",
+      "name": "Leather ToteBook Kem",
+      "price": 350000,
+      "id": "r8rpjzc7xea",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "nt5138_x4f7f5bh-1-htxy-hinh_nghieng_trai_sau_linh_dong-0_2ae55991b4094071a928780dcd62561a_large.jpg",
+      "name": "Túi đeo chéo Coffee Simili Bag màu kem",
+      "price": 320000,
+      "id": "4ylaba3aicb",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "tui_mini_den_2f6aca10364e4754a4dc8a2f57f43b72_large.png",
+      "name": "Túi đeo chéo Black Coffee Simili Bag màu đen",
+      "price": 320000,
+      "id": "syla0s5h5s",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "d52295a940374f95a5c43a46a206126e_6579d52982a84d888f836b4977561c8c_large.jpeg",
+      "name": "Simili Tote Matcha",
+      "price": 350000,
+      "id": "o8sdfj3qoo",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "6d869634a8b8428fa4934f47dc59a404_209c85b66fa44e44a57441a2f82f69a3_large.jpeg",
+      "name": "Simili Tote Black",
+      "price": 350000,
+      "id": "x5z2z2yknsr",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "nt8715_xq6wzrw4-1-2p7o-hinh_mat_truoc-0_563550eb4db5445fb301956c13bbd4b0_large.jpeg",
+      "name": "Leather Tag",
+      "price": 55000,
+      "id": "ezm17963x3",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "img_0084_b21969c99d46433fb75978b9bddd0822_large.jpeg",
+      "name": "Mini Clutch",
+      "price": 300000,
+      "id": "a9gm0cra9j8",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "4ec87d7a8988469ba052ae91d23221e7_d2e329b4c45c4fe9a1150841ce6ac893_large.jpg",
+      "name": "Mini Backpack Drawstring Silver",
+      "price": 300000,
+      "id": "yjn8fupteeg",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "4e0d3b75-e56e-4904-9c7b-85c0b647a4ee_04b8611a416c43cca88103b2115e8aa9_large.jpeg",
+      "name": "Túi Da Travel Leather Bag",
+      "price": 990000,
+      "id": "xuhk5q3p7w",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "0f5bff30-eb86-4ce8-9fe0-bfe593192897_039e750570b641feb7ad287fec0d8f73_large.jpeg",
+      "name": "Balo Drawstring Backpack",
+      "price": 290000,
+      "id": "39dhdtjm2ip",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "bf0fa9b9-dbc8-4ef2-8ec6-7cd4f0a75121_d30663a6153e4caf86627e82c7f1e0b8_large.jpeg",
+      "name": "Balo Leather Flap Backpack",
+      "price": 580000,
+      "id": "20ms5h53urq",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "3139_83cb03cf5382409dbbf47513132fcbad_large.jpg",
+      "name": "Army Backpack",
+      "price": 295000,
+      "id": "yoc040wtnr",
+      "status": "new",
+      "categoryId": "5vertd1bzu6",
+      "createdAt": "Sat Mar 23 2024 23:43:22 GMT+0700 (Indochina Time)"
+    },
+    {
+      "image": "nta101_a804lytl-1-wzat-hinh_mat_sau-0_439210818bca43789e90de070a742906_large.jpeg",
+      "name": "Áo Thun thời trang Big Logo Is Us",
+      "price": 310000,
+      "id": "oqhveiq3m19",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "nta101_ij3248nz-1-uke4-hinh_mat_truoc-0_81b18bfc8b9649d9a23182e7ffaadd83_large.jpeg",
+      "name": "Áo thun Tee shirt in hình bé Xoài",
+      "price": 310000,
+      "id": "tmgypjryygp",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "nta101_0udgqmi7-1-vjse-hinh_mat_truoc-0_5b1cfccd5652454a910d7c0ac02f8470_large.jpeg",
+      "name": "Áo thun Tee shirt Bat Man",
+      "price": 310000,
+      "id": "fpghk6uot0o",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "c7c845384a384bbbba29d80d6235fbd2_8d8642cbafca4878bd88b414ef870f80_large.jpeg",
+      "name": "Tee Vietnam 84 Trắng",
+      "price": 290000,
+      "id": "i0s2dy40yeg",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "nta125_nnmzipin-1-v1ad-hinh_mat_truoc-0_2a35644695db4aa59cf714f786989a94_large.jpeg",
+      "name": "Áo Khoác Cardigan màu kem nâu",
+      "price": 390000,
+      "id": "vhxkqm9kt7",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "f8d6fed79d5ead0d6f2718c2a3e7ee2c_b93b40f6673d4cda8d12c36cc0d6f259_large.jpeg",
+      "name": "Hoodie Is Us",
+      "price": 390000,
+      "id": "pr5dmewkzpb",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "nta105_biwns6f3-1-xtbz-hinh_mat_truoc-0_c9c9f6ac32c844b587810a6ff732d0c0_large.jpeg",
+      "name": "Hoodie Is Us Kem",
+      "price": 390000,
+      "id": "weelvoejdga",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "80e846f9-67e7-40cd-9122-196dd0efc2e0_c5585f0fda7d4c0faa5272605dc1a6b4_large.jpeg",
+      "name": "Jacket Biker",
+      "price": 310000,
+      "id": "vrem34mguik",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "f5b848c0-6da1-4b43-842e-55aeea78e3ec_c9b8f3d2b42c4bd2a50af24ab760b7d8_large.jpeg",
+      "name": "Áo khoác da Biker Jacket V2.0",
+      "price": 310000,
+      "id": "9xpwxueb57w",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "5a4a4fb53d084816ba7680c6de385414_021c797e83ba4ea09e24a9032df38ce3_large.jpeg",
+      "name": "Áo Thun Dây Rút Kem",
+      "price": 350000,
+      "id": "nhp8dvim7yo",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "761aad3c99b244d59e7cd4d9fc215f6b_430c6bf91af3468fb8dbd8effa9b33e7_large.jpeg",
+      "name": "Áo Thun Dây Rút Đen",
+      "price": 350000,
+      "id": "glv4fmlreuj",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "5d0c60ca18ea49e19d59ed8aa9f6ec40_058f4245f686413f9f962816c349968c_large.jpeg",
+      "name": "Tee IsUs Đen",
+      "price": 245000,
+      "id": "k1s6q3z2dxm",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "img_9904_1a6815e7da32433bb7454b83c76badd7_large.jpeg",
+      "name": "Raglan Line Tee Kem",
+      "price": 350000,
+      "id": "4qrmzhi6bzl",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "img_9923_aed040055a9d4bd9913654286ab017b2_large.jpeg",
+      "name": "Raglan Line Tee Đen",
+      "price": 350000,
+      "id": "qn672a9dac",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "nta101_orws4d12-1-evm3-hinh_mat_truoc-0_756fc3b326194c738ce267ca213c7771_large.jpeg",
+      "name": "Raglan Line Nâu Tee Nâu Kem",
+      "price": 350000,
+      "id": "v7nex7rewx",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "nta101_orws4d12-1-rav4-hinh_mat_truoc-0_335e4f890cf24bb3ac2ad000c5ac186e_large.jpeg",
+      "name": "Raglan Line Đen Tee Đen Hồng",
+      "price": 350000,
+      "id": "qt085f7ewal",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "nta101_jisqrlku-1-l0fx-hinh_mat_truoc-0_bcc9f1deee6f4fd09f42dd43c54e6c76_large.jpeg",
+      "name": "Raglan Line Hồng Tee Đen Hồng",
+      "price": 350000,
+      "id": "risjzv4gdv",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "c36102eb2ef140f19de7e1c28af42689_b931524454ef47029074e2e202a54fb9_large.jpeg",
+      "name": "Tee Vietnam 84 Xám",
+      "price": 290000,
+      "id": "fmaujnq7m2j",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "19ad91d067004101b71871aa91bcaf19_53e92d4d8cbd47d49a8b1086e8a844a8_large.jpeg",
+      "name": "Tee Vietnam 84 Green",
+      "price": 290000,
+      "id": "3xnh417pep9",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "eaf50108-ced4-46dd-83ac-d33ae0a3500f_9663b92124c743b1b836cf483a42a76d_large.jpeg",
+      "name": "Tee Vietnam 84 Đỏ",
+      "price": 290000,
+      "id": "l57bbcispb",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "487873e6-34ad-4941-a27d-d85805e310bf_0980f94115b74e679976ce349e065676_large.jpeg",
+      "name": "Áo thể thao Vietnam 84",
+      "price": 290000,
+      "id": "9yl9bjvofl9",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "z4409581854338_39596c8b28a69a8cb698f5ab28960437_a100e92e34074be7a044a757c9f89eaa_large.jpg",
+      "name": "Not A Basic T-Shirt Navy",
+      "price": 240000,
+      "id": "oa35dilwjv",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "te9011_5pq2hay6-1-29i6-hinh_mat_truoc-0_51ae498540fb48bf8b4290cb5d98e5b3_large.jpg",
+      "name": "Pockets Short-Sleeved Black Shirt",
+      "price": 290000,
+      "id": "luqyauexqk",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "te9011_5pq2hay6-1-ozht-hinh_mat_truoc-0_3c09924305e54a989086611728fac9f9_large.jpg",
+      "name": "Short-Sleeved Black Shirt",
+      "price": 290000,
+      "id": "14q0di4a821",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    },
+    {
+      "image": "img_5756_264c3ec6eeaf4dd1afdf3b3be80d4e20_large.jpeg",
+      "name": "Áo Thun Gân Ba Lỗ",
+      "price": 190000,
+      "id": "cq49egnqoop",
+      "status": "new",
+      "createdAt": "Sat Mar 23 2024 23:51:12 GMT+0700 (Indochina Time)",
+      "categoryId": "14o6rxz93nh"
+    }
+  ]
+}

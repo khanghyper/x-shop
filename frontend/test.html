@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://kit.fontawesome.com/b1f6cb493d.js" crossorigin="anonymous"></script>
+    <style>
+        body{
+            width: 100vw;
+            height: 100vh;
+            margin: 0;
+        }
+        .box{
+            width: 300px;
+            min-height: 100px;
+            border: 1px solid black;
+            margin: 100px auto 0 auto;
+            padding: 10px;
+        }
+        .top{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid black;
+        }
+        .top i {
+            transform: rotate(180deg);
+        }
+        .bottom {
+            height: 0;
+            display: none;
+        }
+        .abx {
+            display: block;
+            height: 300px;
+            transition: height 0.3s ease;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        <div class="top">
+            <div>title</div>
+            <i class="fa-solid fa-caret-up"></i>
+        </div>
+        <div class="bottom">
+            abxtest
+        </div>
+    </div>
+    <script>
+        const btn = document.querySelector('.top i');
+        btn.onclick = () => {
+            document.querySelector('.bottom').classList.toggle('abx');
+            btn.style.rotate(20 * Math.PI / 180)
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,148 @@
+a {
+    text-decoration: none;
+    color: #616161;
+}
+
+
+
+#app {
+    height: 100vh;
+}
+
+.containeradmin {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    position: relative;
+}
+
+/* -----------------------SIDEBAR-------------------------- */
+
+
+
+@keyframes onSibar {
+    from{
+        transform: translateX(-0);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(338px);
+        opacity: 1;
+    }
+}
+.sidebar {
+    animation: onSidebar 0.3s ease;
+    animation-fill-mode: forwards;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    right: 0;
+    flex: 2;
+    border-right: 1px solid rgb(230, 230, 230);
+}
+
+
+.logo-container {
+    border-bottom: 1px solid rgb(230, 230, 230);
+    height: 50px;
+}
+
+.center {
+    padding-left: 10px;
+}
+
+.center ul {
+    margin: 0;
+    padding: 0;
+}
+
+.center ul p {
+    font-size: 10px;
+    font: 500;
+    color: #999;
+    margin-top: 15px;
+}
+
+.link {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    cursor: pointer;
+    gap: 10px;
+}
+
+.link:hover {
+    background-color: #c4e3e985;
+}
+
+.link-selected{
+    background-color: #c4e3e985;
+}
+
+.link svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: rgb(56, 56, 56);
+}
+
+.link span {
+    display: block;
+}
+
+/* -----------------------Navbar-------------------------- */
+.main {
+    flex: 7;
+    position: relative;
+}
+
+.navbar {
+    height: 50px;
+    border-bottom: 1px solid rgb(208, 208, 208);
+    border-left: 1px solid rgb(208, 208, 208);
+
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #555;
+    position: sticky;
+    top: 0;
+    position: -webkit-sticky;
+    background: white;
+}
+
+.navbar-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    width: 100%;
+}
+
+.btn-show-sidebar {
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: 5px;
+    padding: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-show-sidebar svg {
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.avatar {
+    border: 1px solid rgb(211, 211, 211);
+    border-radius: 50%;
+    position: relative;
+}
+
+.avatar img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    cursor: pointer;
+}

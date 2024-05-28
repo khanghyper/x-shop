@@ -1,0 +1,255 @@
+
+
+/* --------------------Header---------------------- */
+
+#header {
+    width: 100%;
+    position: sticky;
+    top: 0;
+    background: white;
+    z-index: 100;
+    padding: 4px 0;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.header-container {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 0;
+    padding: 12px 24px;
+}
+
+.nav-links-group-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    color: #374151;
+    padding-top: 1rem;
+}
+
+.nav-links-item {
+    list-style: none;
+
+}
+
+.nav-links-item a {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    color: #2a2a2a;
+    text-decoration: none;
+}
+
+
+.logo-container a{
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    letter-spacing: 0.025em;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+    color: #1f2937;
+}
+
+.user-group {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.user-icon {
+    cursor: pointer;
+}
+.user-icon:hover {
+    color: black;
+}
+
+.user-icon i {
+    font-size: 20px;
+    color: rgb(42, 42, 42);
+}
+
+.cart-icon {
+    cursor: pointer;
+    position: relative;
+    padding: 5px;
+}
+.cart-icon svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    color: rgb(42, 42, 42);
+}
+.qty-cart {
+    position: absolute;
+    top: -5px;
+    right: -10px;
+    font-size: 12px;
+    background: #e43131;
+    color: white;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 22px;
+}
+
+
+
+
+.popup-cart{
+    position: absolute;
+    right: 0;
+    width: 400px;
+    min-height: 100px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    z-index: 99999;
+    background: white;
+    opacity: 0;
+    cursor: auto;
+    visibility: hidden;
+}
+.popupcart-item-hodler{
+    max-height: 330px;
+    overflow: auto;
+    margin-bottom: 12px;
+    background: rgba(255, 255, 255, 0.164);
+}
+.popupcart-item{
+    display: flex;
+    gap: 15px;
+    padding: 15px 10px 15px 10px;
+    border-bottom: 0.8px solid rgb(202, 202, 202);
+}
+.popupcart-item:last-child {
+    border: none;
+}
+.popupcart-text{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 15px;
+}
+.popupcart-in4{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    color: black;
+}
+.popupcart-name{
+    font-weight: 500;
+    font-size: 17px;
+}
+.popupcart-qty{
+    font-size: 14px;
+}
+.popupcart-price{
+    color: red;
+    font-weight: 450;
+    font-size: 14px;
+}
+.cart-price-hover{
+    padding: 15px;
+    
+}
+.cart-price-hover p{
+    text-align: left;
+    margin: 10px 0 15px 0;
+    text-align: right;
+    font-weight: 300;
+    font-size: 15px;
+}
+.cart-price-hover .gocart{
+    margin-top: 10px;
+    background: rgb(224, 36, 36);
+    color: white;
+    text-decoration: none;
+    font-weight: 400;
+    line-height: 42px;
+    padding: 5px;
+    width: 100%;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+}
+.showcart {
+    animation: showcart 0.3s ease forwards;
+}
+.hiddencart {
+    animation: hiddencart 0.3s ease forwards;
+}
+@keyframes showcart {
+    from {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(-10px);
+        opacity: 1;
+    }
+}
+
+@keyframes hiddencart {
+    from {
+        transform: translateY(-10px);
+        opacity: 1;
+    }
+    to {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+}
+
+.in4{
+    position: relative;
+}
+.in4-container{
+    position: absolute;
+    background: white;
+    min-width: 100px;
+    position: absolute;
+    z-index: 999999;
+    opacity: 0;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    visibility: hidden;
+    transition: all 0.2s ease;
+
+}
+.in4-item{
+    padding: 10px 5px;
+    width: 120px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+}
+.in4-item span{
+    width: 0;
+    height: 2px;
+    background: black;
+    position: absolute;
+    bottom: 0;
+    transition: all 0.3s ease-in;
+}
+.in4-item a{
+    text-decoration: none;
+    color: inherit;
+}
+.in4-item:hover{
+    color: black    ;
+}
+.in4-item:hover span{
+    width: 90%;
+}
+.in4:hover .in4-container{
+    opacity: 1;
+    visibility: visible;
+}

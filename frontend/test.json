@@ -1,0 +1,239 @@
+{
+    "products": [
+        {
+            "name": "Túi Da đeo chéo vai thời trang nam nữ",
+            "price": 340000,
+            "status": "new",
+            "categoryId": "5vertd1bzu6",
+            "createdAt": "Sat Mar 23 2024 23: 43: 22 GMT+0700 (Indochina Time)",
+            "image": "TuiDadeocheovaithoitrangnamnu.jpeg"
+        },
+        {
+            "name": "Double Leather Basic BaloNâu Small Size",
+            "price": 380000,
+            "status": "new",
+            "categoryId": "5vertd1bzu6",
+            "createdAt": "Sat Mar 23 2024 23: 43: 22 GMT+0700 (Indochina Time)",
+            "image": "DoubleLeatherBasicBaloNauSmallSize.jpeg"
+        },
+        {
+            "name": "Balo Simili Nap Basic Kem",
+            "price": 440000,
+            "status": "new",
+            "categoryId": "5vertd1bzu6",
+            "createdAt": "Sat Mar 23 2024 23: 43: 22 GMT+0700 (Indochina Time)",
+            "image": "BaloSimiliNapBasicKem.jpeg"
+        },
+        {
+            "name": "Balo Simili Nap Basic",
+            "price": 440000,
+            "status": "new",
+            "categoryId": "5vertd1bzu6",
+            "createdAt": "Sat Mar 23 2024 23: 43: 22 GMT+0700 (Indochina Time)",
+            "image": "BaloSimiliNapBasic.jpeg"
+        },
+        {
+            "name": "Leather Basic Balo Rêu",
+            "price": 430000,
+            "status": "new",
+            "categoryId": "5vertd1bzu6",
+            "createdAt": "Sat Mar 23 2024 23: 43: 22 GMT+0700 (Indochina Time)",
+            "image": "LeatherBasicBaloReu.jpeg"
+        },
+        {
+            "name": "Double Leather Basic Balo",
+            "price": 480000,
+            "status": "new",
+            "categoryId": "5vertd1bzu6",
+            "createdAt": "Sat Mar 23 2024 23: 43: 22 GMT+0700 (Indochina Time)",
+            "image": "DoubleLeatherBasicBalo.jpeg"
+        },
+        {
+            "name": "Balo Leather Quốc Dân Nâu",
+            "price": 340000,
+            "status": "new",
+            "categoryId": "5vertd1bzu6",
+            "createdAt": "Sat Mar 23 2024 23: 43: 22 GMT+0700 (Indochina Time)",
+            "image": "BaloLeatherQuocDanNau.jpg"
+        },
+        {
+            "name": "Simili Tote Black",
+            "price": 350000,
+            "status": "new",
+            "categoryId": "5vertd1bzu6",
+            "createdAt": "Sat Mar 23 2024 23: 43: 22 GMT+0700 (Indochina Time)",
+            "image": "SimiliToteBlack.jpeg"
+        },
+        {
+            "name": "Mini Backpack Drawstring Silver",
+            "price": 300000,
+            "status": "new",
+            "categoryId": "5vertd1bzu6",
+            "createdAt": "Sat Mar 23 2024 23: 43: 22 GMT+0700 (Indochina Time)",
+            "image": "MiniBackpackDrawstringSilver.jpg"
+        },
+        {
+            "name": "Túi Da Travel Leather Bag",
+            "price": 990000,
+            "status": "new",
+            "categoryId": "5vertd1bzu6",
+            "createdAt": "Sat Mar 23 2024 23: 43: 22 GMT+0700 (Indochina Time)",
+            "image": "TuiDaTravelLeatherBag.jpeg"
+        },
+        {
+            "name": "Balo Drawstring Backpack",
+            "price": 290000,
+            "status": "new",
+            "categoryId": "5vertd1bzu6",
+            "createdAt": "Sat Mar 23 2024 23: 43: 22 GMT+0700 (Indochina Time)",
+            "image": "BaloDrawstringBackpack.jpeg"
+        },
+        {
+            "name": "Áo Thun thời trang Big Logo Is Us",
+            "price": 310000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "AoThunthoitrangBigLogoIsUs.jpeg"
+        },
+        {
+            "name": "Áo thun Tee shirt in hình bé Xoài",
+            "price": 310000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "AothunTeeshirtinhinhbeXoai.jpeg"
+        },
+        {
+            "name": "Áo thun Tee shirt Bat Man",
+            "price": 310000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "AothunTeeshirtBatMan.jpeg"
+        },
+        {
+            "name": "Tee Vietnam 84 Trắng",
+            "price": 290000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "TeeVietnam84Trang.jpeg"
+        },
+        {
+            "name": "Áo Khoác Cardiganmàu kem nâu",
+            "price": 390000,
+            "status": "new",
+            "createdAt": "Sat Mar23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "AoKhoacCardiganmaukemnau.jpeg"
+        },
+        {
+            "name": "Hoodie Is Us",
+            "price": 390000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700(Indochina Time)",
+            "image": "HoodieIsUs.jpeg"
+        },
+        {
+            "name": "HoodieIs Us Kem",
+            "price": 390000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "HoodieIsUsKem.jpeg"
+        },
+        {
+            "name": "Jacket Biker",
+            "price": 310000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "JacketBiker.jpeg"
+        },
+        {
+            "name": "Áo khoác da Biker Jacket V2.0",
+            "price": 310000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "AokhoacdaBikerJacketV2.0.jpeg"
+        },
+        {
+            "name": "Áo Thun Dây Rút Kem",
+            "price": 350000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "AoThunDayRutKem.jpeg"
+        },
+        {
+            "name": "Áo Thun Dây Rút Đen",
+            "price": 350000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "AoThunDayRutDen.jpeg"
+        },
+        {
+            "name": "Tee IsUs Đen",
+            "price": 245000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "TeeIsUsDen.jpeg"
+        },
+        {
+            "name": "Raglan Line Nâu Tee Nâu Kem",
+            "price": 350000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "RaglanLineNauTeeNauKem.jpeg"
+        },
+        {
+            "name": "Raglan Line Đen Tee Đen Hồng",
+            "price": 350000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "RaglanLineDenTeeDenHong.jpeg"
+        },
+        {
+            "name": "Raglan Line Hồng Tee ĐenHồng",
+            "price": 350000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "RaglanLineHongTeeDenHong.jpeg"
+        },
+        {
+            "name": "Tee Vietnam 84 Xám",
+            "price": 290000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "TeeVietnam84Xam.jpeg"
+        },
+        {
+            "name": "Tee Vietnam 84 Green",
+            "price": 290000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "TeeVietnam84Green.jpeg"
+        },
+        {
+            "name": "Tee Vietnam84 Đỏ",
+            "price": 290000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "TeeVietnam84Do.jpeg"
+        },
+        {
+            "name": "Áo thể thao Vietnam 84",
+            "price": 290000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "AothethaoVietnam84.jpeg"
+        },
+        {
+            "name": "Not A Basic T-Shirt Navy",
+            "price": 240000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "NotABasicT-ShirtNavy.jpg"
+        },
+        {
+            "name": "Pockets Short-Sleeved Black Shirt",
+            "price": 290000,
+            "status": "new",
+            "createdAt": "Sat Mar 23 2024 23: 51: 12 GMT+0700 (Indochina Time)",
+            "image": "PocketsShort-SleevedBlackShirt.jpg"
+        }
+    ]
+}

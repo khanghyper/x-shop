@@ -1,0 +1,219 @@
+#main {
+    background: rgb(246, 246, 246);
+}
+.main-container{
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}
+.row{
+    padding: 0 15px;
+    width: 100%;
+    display: flex;
+}
+
+.left{
+    flex: 2;
+    padding: 0 15px;
+}
+.header-cart div{
+    padding: 10px 15px;
+    font-weight: 500;
+    font-size: 22px;
+    color: black;
+    border-bottom: 0.8px solid rgb(205, 205, 205);
+}
+.list-pageform-cart{
+    padding: 15px;
+}
+.cart-row{
+    width: 100%;
+}
+.title-number-cart {
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+.count-cart{
+    font-weight: 600;
+    color: black;
+}
+.table-cart {
+    border: 0.8px solid rgb(105, 105, 105);
+    padding: 8px 10px;
+}
+.media-line-item {
+    padding: 15px 10px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 0.8px solid rgb(105, 105, 105);
+    gap: 10px;
+}
+.media-line-item:last-child{
+    border: none;
+}
+.media-left{
+    width: 80px;
+    height: 80px;
+    position: relative;
+}
+.item-img{
+    width: 100%;
+    height: 100%;
+}
+.item-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border: 0.2px solid rgb(225, 225, 225);
+}
+.item-remove{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    font-size: 11px;
+    border: 0.8px solid rgb(169, 169, 169);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(165, 182, 188);
+    color: white;
+    position: absolute;
+    top: -7px;
+    left: -10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+.item-remove:hover{
+    background: #575757;
+    border: 0.8px solid #575757;
+}
+
+.media-right{
+    width: 450px;
+}
+.item-info{
+    margin-bottom: 10px;
+}
+.item-title{
+    font-size: 15px;
+    color: black;
+    font-weight: 400;
+}
+.item-price{
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(91, 91, 91);
+}
+
+.item-total-price{
+    text-align: end;
+    font-weight: 600;
+    color: black;
+}
+.qty{
+    margin: 8px 0 3px 0;
+    display: flex;
+    gap: 3px;
+    align-items: center;
+}
+.qty-btn{
+    width: 26.4px;
+    height: 26.4px;
+    border: 0.8px solid rgb(205, 205, 205);
+    border-radius: 2px;
+    background: white;
+    font-weight: 500;
+    font-size: 18px;
+    cursor: pointer;
+    transition: all 0.2s ease-in;
+}
+.qty-btn:hover{
+    background: #363636;
+    color: white;
+    border: 0.8px solid #088178;
+}
+.item-quantity{
+    width: 34.4px;
+    height: 24.8px;
+    border: 0.8px solid rgb(205, 205, 205);
+    text-align: center;
+    outline: none;
+    font-size: 13px;
+    border-radius: 2px;
+}
+
+.right {
+    flex: 1;
+    padding: 0 15px;
+}
+.wrap-order-summary{
+    width: 100%;
+}
+.order-summary-block{
+    margin-bottom: 15px;
+    padding: 15px;
+}
+.summary-title{
+    font-size: 22px;
+    font-weight: 500;
+    color: black;
+    margin: 15px 0 10px 0;
+}
+.summary-total{
+    padding: 10px 0;
+    border-bottom: 0.8px dotted rgb(205, 205, 205);
+    border-top: 0.8px dotted rgb(205, 205, 205);
+
+}
+.summary-total p{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 500;
+    font-size: 18px;
+    color: black;
+}
+.summary-total p span{
+    color: red;
+    font-weight: 600;
+    font-size: 22px;
+}
+.summary-action {
+    margin-top: 5px;
+}
+.summary-action p{
+    padding-left: 15px;
+    margin-bottom: 4px;
+    position: relative;
+}
+.summary-action p::before{
+    content: "";
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: rgb(213, 213, 213);
+    position: absolute;
+    top: 8px;
+    left: 0;
+}
+.summary-button{
+    width: 100%;
+}
+.summary-button a{
+    padding: 10px 5px;
+    color: white;
+    font-weight: 500;
+    text-transform: uppercase;
+    background: #e43131;
+    width: 100%;
+    display: block;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+    transition: all 0.2s ease-in;
+}
+.summary-button a:hover{
+    background-color: #b32727;
+}
